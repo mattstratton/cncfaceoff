@@ -8,4 +8,4 @@ Questions are located in [`js/cncf1.json`](../js/cncf1.json)
 
 To run the game:
 
-Launch [cncfaceoff.netlify.app](https://cncfaceoff.netlify.app)
+Launch [game.cncfaceoff.tv](https://game.cncfaceoff.tv)
