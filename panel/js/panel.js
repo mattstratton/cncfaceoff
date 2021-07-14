@@ -5,10 +5,10 @@ var missPointTeam1 = 0;
 var missPointTeam2 = 0;
 
 	function start_game(){	
-		play_sound('ff_open');
+		play_sound('ff_open.mp3');
 		document.getElementById("buttonStart").disabled = true;
 			
-		var counter = 10;
+		var counter = 33;
 		var interval = setInterval(function() {
 			counter--;
 			if (counter < 5) {
@@ -104,7 +104,7 @@ var missPointTeam2 = 0;
 			document.getElementById("misspoint2").innerHTML = missPointTeam2;
 		}	
 		printMissPoint();
-		play_sound('ff-strike.mp3');
+		play_sound('ff-strike.wav');
 	}
 	
 	function nextQuestion(){
@@ -126,7 +126,7 @@ var missPointTeam2 = 0;
 			game.document.getElementById("awardTeam2").click();
 		}
 		
-	play_sound('ff_dogru');
+	play_sound('ff_dogru.mp3');
 	}
 	
 	function GetQuestion(questionParam){
@@ -150,7 +150,7 @@ var missPointTeam2 = 0;
 				var tempBgColor = this.style.backgroundColor;
 				if(tempBgColor == ""){
 					this.setAttribute("style", "background-color: lightgreen;");
-					play_sound('ff-clang');
+					play_sound('ff-clang.wav');
 				}
 				else if(tempBgColor == "lightgreen"){
 					this.setAttribute("style", "background-color: ;");
