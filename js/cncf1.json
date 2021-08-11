@@ -1,34 +1,33 @@
 ﻿{
-	"What is the main benefit you get from Kubernetes?": [
-		["Employment", 17],
-		["Content for Twitter shitposting", 14],
-		["Pain", 10],
-		["Software Deployment", 10],
-		["Abstractions", 7],
-		["Scaling", 6]
+	"Name a reason to change cloud providers": [
+		["Cost", 24],
+		["Ease of use", 18],
+		["Morals/ethics", 16],
+		["They go out of business", 9],
+		["Boss told me to", 6],
+		["Corey Quinn's shitposting", 4]
 	],
-	"Name an observability tool": [
-		["Honeycomb", 30],
-		["Prometheus", 9],
-		["Datadog", 3],
-		["Jaeger", 2],
-		["Splunk", 2]
+	"Name a git command": [
+		["Rebase", 18],
+		["Push", 12],
+		["Pull", 6],
+		["Blame", 8],
+		["Bisect", 4]
 	],
-	"Something someone would find installed on your phone": [
-		["Messaging/Collaboration Apps", 14],
-		["Twitter", 12],
-		["Games", 7],
-		["Malware", 6],
-		["Unused productivity apps", 5],
-		["Password Manager", 5],
-		["PagerDuty", 3]
+	"Name a software license": [
+		["MIT", 24],
+		["Apache", 12],
+		["GPL", 11],
+		["Creative Commons", 5],
+		["BSD", 3]
 	],
-	"What is something you always have to google to remember how to do?": [
-		["Programming language syntax", 10],
-		["anything with git",9],
-		["Arguments/flags for the tar command", 7],
-		["Regular expressions", 6],
-		["Cooking temperatures/techniques", 5],
-		["Symlinks", 4]
+	"Name something you might see in an email from a vendor": [
+		["Hello $NAME",22],
+		["Spam", 19],
+		["A broken unsubscribe link", 15],
+		["\"I hope this message finds you well\"", 11],
+		["\"In these troubling times...\"", 6],
+		["Tracking pixels", 4],
+		["A bad joke", 3]
 	]
 }
