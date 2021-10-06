@@ -1,33 +1,33 @@
 ﻿{
-	"Which CNCF project (not Kubernetes) has your favorite logo?": [
-		["Argo", 8],
-		["Open Policy Agent/OPA", 6],
-		["Jaeger", 5],
-		["Harbor", 3],
-		["I don't know any of the logos", 2]
+	"Name something associated with cloud computing": [
+		["AWS/Amazon", 13],
+		["Corey Quinn", 6],
+		["Sadness", 5],
+		["Security breaches", 3],
+		["APIs", 2]
 	],
-	"If you didn’t work in tech, what would your profession be?": [
-		["Teacher/professor", 18],
-		["Musican", 12],
-		["Scientist", 8],
-		["Bartender/Server", 6],
-		["Carpenter", 4],
-		["Idle rich/person of leisure", 3]
+	"What do you think most developers spend most of their time doing?": [
+		["Writing code", 18],
+		["Googling answers", 12],
+		["Meetings", 11],
+		["Making mistakes", 6],
+		["Tweeting/shitposting", 4],
+		["Yelling at computers", 3]
 	],
-	"Name something appealing about working from home": [
-		["No commute", 16],
-		["Naps", 12],
-		["No pants", 9],
-		["Flexibility in schedule", 7],
-		["Dogs/cats/pets", 5]
+	"What is your main source for tech news?": [
+		["Twitter", 16],
+		["Hacker News", 12],
+		["Reddit", 9],
+		["Newsletters that are not Corey Quinn's", 8],
+		["Corey Quinn", 7],
+		["Podcasts", 5]
 	],
-	"What is the main way you communicate with friends?": [
-		["Text/SMS", 18],
-		["Whatsapp", 12],
-		["Discord",9],
-		["Signal", 7],
-		["Slack", 5],
-		["Twitter", 4],
-		["Yelling", 3]
+	"When I deploy infrastructure I use this": [
+		["Terraform", 18],
+		["YAML", 12],
+		["Cloudformation", 9],
+		["Ansible",7],
+		["Thoughts and prayers", 5],
+		["Someone else/another team", 4]
 	]
 }
