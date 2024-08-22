@@ -4,7 +4,9 @@ var team2 = window.opener.document.getElementById("team2NAME").value;
 var app = {
   version: 1,
   currentQ: 0,
+  // this is where you set the file
   jsonFile:"js/cncf1.json",
+  // jsonFile:"js/aiven.json",
   board: $("<div id='gameBoardId' class='gameBoard'>"+
              "<!--- Scores --->"+
              "<div class='score' id='boardScore'>0</div>"+
