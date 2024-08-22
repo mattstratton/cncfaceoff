@@ -1,0 +1,33 @@
+﻿{
+	"Name something associated with cloud computing": [
+		["AWS/Amazon", 13],
+		["Corey Quinn", 6],
+		["Sadness", 5],
+		["Security breaches", 3],
+		["APIs", 2]
+	],
+	"What do you think most developers spend most of their time doing?": [
+		["Writing code", 18],
+		["Googling answers", 12],
+		["Meetings", 11],
+		["Making mistakes", 6],
+		["Tweeting/shitposting", 4],
+		["Yelling at computers", 3]
+	],
+	"What is your main source for tech news?": [
+		["Twitter", 16],
+		["Hacker News", 12],
+		["Reddit", 9],
+		["Newsletters not from Corey Quinn", 8],
+		["Corey Quinn", 7],
+		["Podcasts", 5]
+	],
+	"When I deploy infrastructure I use this": [
+		["Terraform", 18],
+		["YAML", 12],
+		["Cloudformation", 9],
+		["Ansible",7],
+		["Thoughts and prayers", 5],
+		["Someone else/another team", 4]
+	]
+}
