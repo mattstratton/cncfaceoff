@@ -1,33 +1,43 @@
 ﻿{
-	"Name something associated with cloud computing": [
-		["AWS/Amazon", 13],
-		["Corey Quinn", 6],
-		["Sadness", 5],
-		["Security breaches", 3],
-		["APIs", 2]
+	"The worst place to store your Yubikey": [
+		["In my laptop USB port", 21],
+		["Keychain/AirTag", 19],
+		["Purse/backpack", 11],
+		["I forgot/I lost it", 9],
+		["Pants pocket", 7],
+		["On my cat's collar", 2]
 	],
-	"What do you think most developers spend most of their time doing?": [
-		["Writing code", 18],
-		["Googling answers", 12],
-		["Meetings", 11],
-		["Making mistakes", 6],
-		["Tweeting/shitposting", 4],
-		["Yelling at computers", 3]
+	"Something you always have to Google": [
+		["Cooking/baking", 22],
+		["Excel formula", 19],
+		["Regex", 14],
+		["Vim stuff", 9],
+		["Git commands", 8],
+		["Calculating percentages/maths", 3]
 	],
-	"What is your main source for tech news?": [
-		["Twitter", 16],
-		["Hacker News", 12],
-		["Reddit", 9],
-		["Newsletters not from Corey Quinn", 8],
-		["Corey Quinn", 7],
-		["Podcasts", 5]
+	"What is your favorite crab?": [
+		["Snow", 31],
+		["The Aiven logo", 24],
+		["Horseshoe", 14],
+		["Hermit", 8],
+		["Coconut", 7],
+		["Francesco", 1]
 	],
-	"When I deploy infrastructure I use this": [
-		["Terraform", 18],
-		["YAML", 12],
-		["Cloudformation", 9],
-		["Ansible",7],
-		["Thoughts and prayers", 5],
-		["Someone else/another team", 4]
+	"If you didn't work at Aiven, where would you work instead?": [
+		["For myself", 31],
+		["Another tech job", 22],
+		["Retire", 17],
+		["Journalism/Writer",11],
+		["Public office", 8],
+		["Teaching", 6]
+	],
+	"Your favorite Olympic event": [
+		["Swimming", 35],
+		["Track & Field", 19],
+		["Ski Jump", 11],
+		["Gymnastics", 9],
+		["Basketball",8],
+		["Curling", 2],
+		["Breakdancing", 1]
 	]
 }
